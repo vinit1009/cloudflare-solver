@@ -1,1 +1,3 @@
-//put your proxies here
+#put your proxies here
+
+host:port::username::password
