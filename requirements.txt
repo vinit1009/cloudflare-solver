@@ -1,0 +1,6 @@
+seleniumbase>=4.22.3
+selenium>=4.16.0
+undetected-chromedriver>=3.5.4
+requests>=2.31.0
+fake-useragent>=1.4.0
+pandas>=2.1.4 
